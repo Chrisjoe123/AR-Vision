@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="USA" size="1.000000 1.606481" />
+    <ImageTarget name="UK" size="1.000000 1.606481" />
+    <ImageTarget name="UAE" size="1.000000 1.611111" />
+    <ImageTarget name="Taj_Mahal" size="1.000000 1.611111" />
+    <ImageTarget name="Russia" size="1.000000 1.606481" />
+    <ImageTarget name="Pyramid" size="1.000000 1.611111" />
+    <ImageTarget name="Pisa" size="1.000000 1.611111" />
+    <ImageTarget name="Indo" size="1.000000 1.611111" />
+    <ImageTarget name="France" size="1.000000 1.611111" />
+    <ImageTarget name="Egypt" size="1.000000 1.611111" />
+    <ImageTarget name="CWOC" size="1.000000 1.611111" />
+    <ImageTarget name="CTR" size="1.000000 1.611111" />
+    <ImageTarget name="CI" size="1.000000 1.611111" />
+    <ImageTarget name="Colloseum" size="1.000000 1.606481" />
+    <ImageTarget name="China" size="1.000000 1.606481" />
+    <ImageTarget name="Belakang" size="1.000000 1.611111" />
+  </Tracking>
+</QCARConfig>
